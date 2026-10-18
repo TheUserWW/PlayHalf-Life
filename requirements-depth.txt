@@ -1,0 +1,2 @@
+# Required by the MiDaS_small model loaded through torch.hub.
+timm

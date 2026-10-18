@@ -1,0 +1,668 @@
+{"type": "frame", "t": 0.047, "frame": "frames/frame_000000.jpg", "keys_down": [], "mouse_x": 1021, "mouse_y": 761, "capture_x": 1021, "capture_y": 761}
+{"type": "frame", "t": 0.109, "frame": "frames/frame_000001.jpg", "keys_down": [], "mouse_x": 1021, "mouse_y": 761, "capture_x": 1021, "capture_y": 761}
+{"type": "frame", "t": 0.203, "frame": "frames/frame_000002.jpg", "keys_down": [], "mouse_x": 1020, "mouse_y": 761, "capture_x": 1020, "capture_y": 761}
+{"type": "frame", "t": 0.312, "frame": "frames/frame_000003.jpg", "keys_down": [], "mouse_x": 895, "mouse_y": 616, "capture_x": 895, "capture_y": 616}
+{"type": "frame", "t": 0.406, "frame": "frames/frame_000004.jpg", "keys_down": [], "mouse_x": 782, "mouse_y": 370, "capture_x": 782, "capture_y": 370}
+{"type": "frame", "t": 0.515, "frame": "frames/frame_000005.jpg", "keys_down": [], "mouse_x": 750, "mouse_y": 325, "capture_x": 750, "capture_y": 325}
+{"type": "frame", "t": 0.609, "frame": "frames/frame_000006.jpg", "keys_down": [], "mouse_x": 436, "mouse_y": 355, "capture_x": 436, "capture_y": 355}
+{"type": "frame", "t": 0.703, "frame": "frames/frame_000007.jpg", "keys_down": [], "mouse_x": 391, "mouse_y": 360, "capture_x": 391, "capture_y": 360}
+{"type": "frame", "t": 0.812, "frame": "frames/frame_000008.jpg", "keys_down": [], "mouse_x": 402, "mouse_y": 350, "capture_x": 402, "capture_y": 350}
+{"type": "frame", "t": 0.906, "frame": "frames/frame_000009.jpg", "keys_down": [], "mouse_x": 441, "mouse_y": 333, "capture_x": 441, "capture_y": 333}
+{"type": "input", "t": 0.922, "event": "down", "control": "MOUSE_LEFT", "mouse_x": 445, "mouse_y": 331}
+{"type": "frame", "t": 1.0, "frame": "frames/frame_000010.jpg", "keys_down": ["MOUSE_LEFT"], "mouse_x": 445, "mouse_y": 331, "capture_x": 445, "capture_y": 331}
+{"type": "input", "t": 1.047, "event": "up", "control": "MOUSE_LEFT", "mouse_x": 445, "mouse_y": 331}
+{"type": "frame", "t": 1.109, "frame": "frames/frame_000011.jpg", "keys_down": [], "mouse_x": 445, "mouse_y": 331, "capture_x": 445, "capture_y": 331}
+{"type": "frame", "t": 1.203, "frame": "frames/frame_000012.jpg", "keys_down": [], "mouse_x": 445, "mouse_y": 331, "capture_x": 445, "capture_y": 331}
+{"type": "frame", "t": 1.312, "frame": "frames/frame_000013.jpg", "keys_down": [], "mouse_x": 445, "mouse_y": 331, "capture_x": 445, "capture_y": 331}
+{"type": "input", "t": 1.406, "event": "down", "control": "ESC", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 1.406, "frame": "frames/frame_000014.jpg", "keys_down": ["ESC"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 1.5, "event": "up", "control": "ESC", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 1.5, "frame": "frames/frame_000015.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 1.609, "frame": "frames/frame_000016.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 1.703, "frame": "frames/frame_000017.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 1.812, "frame": "frames/frame_000018.jpg", "keys_down": [], "mouse_x": 318, "mouse_y": 290, "capture_x": 318, "capture_y": 290}
+{"type": "frame", "t": 1.906, "frame": "frames/frame_000019.jpg", "keys_down": [], "mouse_x": 318, "mouse_y": 286, "capture_x": 318, "capture_y": 286}
+{"type": "frame", "t": 2.015, "frame": "frames/frame_000020.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 2.109, "frame": "frames/frame_000021.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 2.219, "frame": "frames/frame_000022.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 2.219, "event": "down", "control": "S", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 2.312, "frame": "frames/frame_000023.jpg", "keys_down": ["S"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 2.422, "frame": "frames/frame_000024.jpg", "keys_down": ["S"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 2.437, "event": "up", "control": "S", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 2.5, "frame": "frames/frame_000025.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 2.609, "frame": "frames/frame_000026.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 2.703, "frame": "frames/frame_000027.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 2.797, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 2.812, "frame": "frames/frame_000028.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 2.89, "event": "up", "control": "A", "mouse_x": 324, "mouse_y": 285}
+{"type": "frame", "t": 2.922, "frame": "frames/frame_000029.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 3.015, "frame": "frames/frame_000030.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 283, "capture_x": 322, "capture_y": 283}
+{"type": "frame", "t": 3.109, "frame": "frames/frame_000031.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 283, "capture_x": 320, "capture_y": 283}
+{"type": "input", "t": 3.14, "event": "down", "control": "D", "mouse_x": 322, "mouse_y": 281}
+{"type": "frame", "t": 3.203, "frame": "frames/frame_000032.jpg", "keys_down": ["D"], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "input", "t": 3.234, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 3.312, "frame": "frames/frame_000033.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 3.406, "frame": "frames/frame_000034.jpg", "keys_down": [], "mouse_x": 319, "mouse_y": 285, "capture_x": 319, "capture_y": 285}
+{"type": "frame", "t": 3.5, "frame": "frames/frame_000035.jpg", "keys_down": [], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "frame", "t": 3.609, "frame": "frames/frame_000036.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 3.656, "event": "down", "control": "A", "mouse_x": 318, "mouse_y": 285}
+{"type": "input", "t": 3.719, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 3.719, "frame": "frames/frame_000037.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 3.812, "frame": "frames/frame_000038.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 3.906, "frame": "frames/frame_000039.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.015, "frame": "frames/frame_000040.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.125, "frame": "frames/frame_000041.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.203, "frame": "frames/frame_000042.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 4.281, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 4.312, "frame": "frames/frame_000043.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 4.328, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 4.422, "frame": "frames/frame_000044.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.515, "frame": "frames/frame_000045.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.609, "frame": "frames/frame_000046.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.703, "frame": "frames/frame_000047.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.812, "frame": "frames/frame_000048.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 4.906, "frame": "frames/frame_000049.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.0, "frame": "frames/frame_000050.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.109, "frame": "frames/frame_000051.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.203, "frame": "frames/frame_000052.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.312, "frame": "frames/frame_000053.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.422, "frame": "frames/frame_000054.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.515, "frame": "frames/frame_000055.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.609, "frame": "frames/frame_000056.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.703, "frame": "frames/frame_000057.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.812, "frame": "frames/frame_000058.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 5.906, "frame": "frames/frame_000059.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 6.015, "frame": "frames/frame_000060.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 6.109, "frame": "frames/frame_000061.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "frame", "t": 6.219, "frame": "frames/frame_000062.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "frame", "t": 6.312, "frame": "frames/frame_000063.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 6.406, "frame": "frames/frame_000064.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 6.5, "frame": "frames/frame_000065.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 6.531, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 6.609, "frame": "frames/frame_000066.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 6.64, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 6.703, "frame": "frames/frame_000067.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 6.812, "frame": "frames/frame_000068.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 6.906, "frame": "frames/frame_000069.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.0, "frame": "frames/frame_000070.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.109, "frame": "frames/frame_000071.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.219, "frame": "frames/frame_000072.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.312, "frame": "frames/frame_000073.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.422, "frame": "frames/frame_000074.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.515, "frame": "frames/frame_000075.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.609, "frame": "frames/frame_000076.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.703, "frame": "frames/frame_000077.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.812, "frame": "frames/frame_000078.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 7.906, "frame": "frames/frame_000079.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.0, "frame": "frames/frame_000080.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.109, "frame": "frames/frame_000081.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.219, "frame": "frames/frame_000082.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.328, "frame": "frames/frame_000083.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.406, "frame": "frames/frame_000084.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.5, "frame": "frames/frame_000085.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.625, "frame": "frames/frame_000086.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.703, "frame": "frames/frame_000087.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.812, "frame": "frames/frame_000088.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 8.906, "frame": "frames/frame_000089.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.015, "frame": "frames/frame_000090.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.109, "frame": "frames/frame_000091.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.203, "frame": "frames/frame_000092.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 287, "capture_x": 320, "capture_y": 287}
+{"type": "frame", "t": 9.312, "frame": "frames/frame_000093.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 287, "capture_x": 320, "capture_y": 287}
+{"type": "frame", "t": 9.406, "frame": "frames/frame_000094.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.5, "frame": "frames/frame_000095.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.609, "frame": "frames/frame_000096.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.719, "frame": "frames/frame_000097.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.812, "frame": "frames/frame_000098.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 9.922, "frame": "frames/frame_000099.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.015, "frame": "frames/frame_000100.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.109, "frame": "frames/frame_000101.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.203, "frame": "frames/frame_000102.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.312, "frame": "frames/frame_000103.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.406, "frame": "frames/frame_000104.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.515, "frame": "frames/frame_000105.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.609, "frame": "frames/frame_000106.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 10.703, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 10.703, "frame": "frames/frame_000107.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.812, "frame": "frames/frame_000108.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 10.906, "frame": "frames/frame_000109.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.0, "frame": "frames/frame_000110.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.109, "frame": "frames/frame_000111.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.203, "frame": "frames/frame_000112.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.312, "frame": "frames/frame_000113.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.406, "frame": "frames/frame_000114.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.515, "frame": "frames/frame_000115.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.609, "frame": "frames/frame_000116.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 11.656, "event": "up", "control": "W", "mouse_x": 341, "mouse_y": 282}
+{"type": "frame", "t": 11.719, "frame": "frames/frame_000117.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 11.812, "frame": "frames/frame_000118.jpg", "keys_down": [], "mouse_x": 333, "mouse_y": 283, "capture_x": 333, "capture_y": 283}
+{"type": "input", "t": 11.89, "event": "down", "control": "A", "mouse_x": 329, "mouse_y": 285}
+{"type": "frame", "t": 11.922, "frame": "frames/frame_000119.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 11.984, "event": "up", "control": "A", "mouse_x": 324, "mouse_y": 285}
+{"type": "frame", "t": 12.015, "frame": "frames/frame_000120.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 12.015, "event": "down", "control": "W", "mouse_x": 329, "mouse_y": 285}
+{"type": "frame", "t": 12.109, "frame": "frames/frame_000121.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 12.203, "frame": "frames/frame_000122.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 12.219, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 12.312, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 12.312, "frame": "frames/frame_000123.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 12.406, "frame": "frames/frame_000124.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 12.484, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 12.515, "frame": "frames/frame_000125.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 12.609, "frame": "frames/frame_000126.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 12.703, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 12.703, "frame": "frames/frame_000127.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 12.781, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 12.812, "frame": "frames/frame_000128.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 12.922, "frame": "frames/frame_000129.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 13.0, "frame": "frames/frame_000130.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 13.109, "frame": "frames/frame_000131.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "frame", "t": 13.203, "frame": "frames/frame_000132.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 13.25, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 13.312, "frame": "frames/frame_000133.jpg", "keys_down": ["W"], "mouse_x": 316, "mouse_y": 287, "capture_x": 316, "capture_y": 287}
+{"type": "frame", "t": 13.406, "frame": "frames/frame_000134.jpg", "keys_down": ["W"], "mouse_x": 316, "mouse_y": 290, "capture_x": 316, "capture_y": 290}
+{"type": "frame", "t": 13.515, "frame": "frames/frame_000135.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 13.609, "frame": "frames/frame_000136.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 13.687, "event": "down", "control": "D", "mouse_x": 322, "mouse_y": 281}
+{"type": "frame", "t": 13.719, "frame": "frames/frame_000137.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 13.812, "frame": "frames/frame_000138.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 13.922, "frame": "frames/frame_000139.jpg", "keys_down": ["D", "W"], "mouse_x": 341, "mouse_y": 282, "capture_x": 341, "capture_y": 282}
+{"type": "frame", "t": 14.0, "frame": "frames/frame_000140.jpg", "keys_down": ["D", "W"], "mouse_x": 327, "mouse_y": 285, "capture_x": 327, "capture_y": 285}
+{"type": "frame", "t": 14.109, "frame": "frames/frame_000141.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 14.187, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 14.203, "frame": "frames/frame_000142.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 14.312, "frame": "frames/frame_000143.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 14.406, "frame": "frames/frame_000144.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 14.453, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 14.515, "event": "up", "control": "W", "mouse_x": 308, "mouse_y": 285}
+{"type": "frame", "t": 14.515, "frame": "frames/frame_000145.jpg", "keys_down": ["D"], "mouse_x": 308, "mouse_y": 285, "capture_x": 308, "capture_y": 285}
+{"type": "frame", "t": 14.609, "frame": "frames/frame_000146.jpg", "keys_down": ["D"], "mouse_x": 311, "mouse_y": 287, "capture_x": 311, "capture_y": 287}
+{"type": "input", "t": 14.672, "event": "up", "control": "D", "mouse_x": 311, "mouse_y": 285}
+{"type": "frame", "t": 14.703, "frame": "frames/frame_000147.jpg", "keys_down": [], "mouse_x": 308, "mouse_y": 285, "capture_x": 308, "capture_y": 285}
+{"type": "frame", "t": 14.812, "frame": "frames/frame_000148.jpg", "keys_down": [], "mouse_x": 317, "mouse_y": 285, "capture_x": 317, "capture_y": 285}
+{"type": "input", "t": 14.844, "event": "down", "control": "W", "mouse_x": 316, "mouse_y": 285}
+{"type": "frame", "t": 14.922, "frame": "frames/frame_000149.jpg", "keys_down": ["W"], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "frame", "t": 15.015, "frame": "frames/frame_000150.jpg", "keys_down": ["W"], "mouse_x": 313, "mouse_y": 280, "capture_x": 313, "capture_y": 280}
+{"type": "input", "t": 15.015, "event": "down", "control": "A", "mouse_x": 313, "mouse_y": 280}
+{"type": "frame", "t": 15.109, "frame": "frames/frame_000151.jpg", "keys_down": ["A", "W"], "mouse_x": 317, "mouse_y": 285, "capture_x": 317, "capture_y": 285}
+{"type": "input", "t": 15.14, "event": "up", "control": "A", "mouse_x": 318, "mouse_y": 285}
+{"type": "frame", "t": 15.203, "frame": "frames/frame_000152.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 15.312, "frame": "frames/frame_000153.jpg", "keys_down": ["W"], "mouse_x": 322, "mouse_y": 286, "capture_x": 322, "capture_y": 286}
+{"type": "frame", "t": 15.406, "frame": "frames/frame_000154.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 15.5, "frame": "frames/frame_000155.jpg", "keys_down": ["W"], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "frame", "t": 15.609, "frame": "frames/frame_000156.jpg", "keys_down": ["W"], "mouse_x": 323, "mouse_y": 285, "capture_x": 323, "capture_y": 285}
+{"type": "frame", "t": 15.703, "frame": "frames/frame_000157.jpg", "keys_down": ["W"], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "frame", "t": 15.812, "frame": "frames/frame_000158.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 287, "capture_x": 320, "capture_y": 287}
+{"type": "input", "t": 15.828, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 15.844, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 15.906, "frame": "frames/frame_000159.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 15.937, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 16.0, "frame": "frames/frame_000160.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 16.109, "frame": "frames/frame_000161.jpg", "keys_down": [], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "input", "t": 16.219, "event": "down", "control": "W", "mouse_x": 318, "mouse_y": 285}
+{"type": "frame", "t": 16.219, "frame": "frames/frame_000162.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 16.312, "frame": "frames/frame_000163.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 16.422, "frame": "frames/frame_000164.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 16.453, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 16.515, "frame": "frames/frame_000165.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 16.547, "event": "up", "control": "A", "mouse_x": 321, "mouse_y": 285}
+{"type": "frame", "t": 16.609, "frame": "frames/frame_000166.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 16.703, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 16.703, "frame": "frames/frame_000167.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 16.812, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 16.812, "frame": "frames/frame_000168.jpg", "keys_down": ["W"], "mouse_x": 319, "mouse_y": 288, "capture_x": 319, "capture_y": 288}
+{"type": "frame", "t": 16.922, "frame": "frames/frame_000169.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 17.0, "frame": "frames/frame_000170.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 17.109, "frame": "frames/frame_000171.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 17.203, "frame": "frames/frame_000172.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 17.312, "frame": "frames/frame_000173.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 17.406, "frame": "frames/frame_000174.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 17.484, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 17.515, "frame": "frames/frame_000175.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 17.609, "frame": "frames/frame_000176.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 17.719, "frame": "frames/frame_000177.jpg", "keys_down": ["D", "W"], "mouse_x": 311, "mouse_y": 288, "capture_x": 311, "capture_y": 288}
+{"type": "input", "t": 17.781, "event": "up", "control": "W", "mouse_x": 311, "mouse_y": 285}
+{"type": "frame", "t": 17.812, "frame": "frames/frame_000178.jpg", "keys_down": ["D"], "mouse_x": 314, "mouse_y": 285, "capture_x": 314, "capture_y": 285}
+{"type": "frame", "t": 17.906, "frame": "frames/frame_000179.jpg", "keys_down": ["D"], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "frame", "t": 18.015, "frame": "frames/frame_000180.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 18.109, "frame": "frames/frame_000181.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 18.125, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 18.203, "frame": "frames/frame_000182.jpg", "keys_down": [], "mouse_x": 311, "mouse_y": 285, "capture_x": 311, "capture_y": 285}
+{"type": "frame", "t": 18.312, "frame": "frames/frame_000183.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 18.406, "frame": "frames/frame_000184.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 18.5, "frame": "frames/frame_000185.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 18.609, "frame": "frames/frame_000186.jpg", "keys_down": [], "mouse_x": 303, "mouse_y": 285, "capture_x": 303, "capture_y": 285}
+{"type": "frame", "t": 18.703, "frame": "frames/frame_000187.jpg", "keys_down": [], "mouse_x": 313, "mouse_y": 283, "capture_x": 313, "capture_y": 283}
+{"type": "input", "t": 18.781, "event": "down", "control": "W", "mouse_x": 313, "mouse_y": 283}
+{"type": "frame", "t": 18.812, "frame": "frames/frame_000188.jpg", "keys_down": ["W"], "mouse_x": 318, "mouse_y": 284, "capture_x": 318, "capture_y": 284}
+{"type": "frame", "t": 18.922, "frame": "frames/frame_000189.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 19.015, "frame": "frames/frame_000190.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 19.109, "frame": "frames/frame_000191.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 19.219, "frame": "frames/frame_000192.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 19.281, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 19.328, "frame": "frames/frame_000193.jpg", "keys_down": ["A", "W"], "mouse_x": 311, "mouse_y": 282, "capture_x": 311, "capture_y": 282}
+{"type": "frame", "t": 19.406, "frame": "frames/frame_000194.jpg", "keys_down": ["A", "W"], "mouse_x": 316, "mouse_y": 283, "capture_x": 316, "capture_y": 283}
+{"type": "input", "t": 19.484, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 19.484, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 19.5, "frame": "frames/frame_000195.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 19.609, "frame": "frames/frame_000196.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 19.719, "frame": "frames/frame_000197.jpg", "keys_down": [], "mouse_x": 321, "mouse_y": 285, "capture_x": 321, "capture_y": 285}
+{"type": "frame", "t": 19.812, "frame": "frames/frame_000198.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 19.922, "frame": "frames/frame_000199.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 19.937, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 20.015, "frame": "frames/frame_000200.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 286, "capture_x": 320, "capture_y": 286}
+{"type": "input", "t": 20.078, "event": "up", "control": "D", "mouse_x": 322, "mouse_y": 289}
+{"type": "frame", "t": 20.109, "frame": "frames/frame_000201.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 289, "capture_x": 320, "capture_y": 289}
+{"type": "frame", "t": 20.203, "frame": "frames/frame_000202.jpg", "keys_down": [], "mouse_x": 306, "mouse_y": 291, "capture_x": 306, "capture_y": 291}
+{"type": "input", "t": 20.25, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 20.312, "frame": "frames/frame_000203.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 20.328, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 20.328, "event": "up", "control": "W", "mouse_x": 321, "mouse_y": 282}
+{"type": "frame", "t": 20.406, "frame": "frames/frame_000204.jpg", "keys_down": ["A"], "mouse_x": 338, "mouse_y": 280, "capture_x": 338, "capture_y": 280}
+{"type": "frame", "t": 20.515, "frame": "frames/frame_000205.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 20.594, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 20.625, "frame": "frames/frame_000206.jpg", "keys_down": [], "mouse_x": 327, "mouse_y": 285, "capture_x": 327, "capture_y": 285}
+{"type": "frame", "t": 20.719, "frame": "frames/frame_000207.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 20.765, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 20.812, "frame": "frames/frame_000208.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 20.906, "frame": "frames/frame_000209.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 21.015, "frame": "frames/frame_000210.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 21.109, "frame": "frames/frame_000211.jpg", "keys_down": ["A"], "mouse_x": 329, "mouse_y": 288, "capture_x": 329, "capture_y": 288}
+{"type": "frame", "t": 21.203, "frame": "frames/frame_000212.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 21.312, "frame": "frames/frame_000213.jpg", "keys_down": ["A"], "mouse_x": 336, "mouse_y": 288, "capture_x": 336, "capture_y": 288}
+{"type": "frame", "t": 21.406, "frame": "frames/frame_000214.jpg", "keys_down": ["A"], "mouse_x": 327, "mouse_y": 287, "capture_x": 327, "capture_y": 287}
+{"type": "input", "t": 21.422, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 21.5, "frame": "frames/frame_000215.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 21.625, "frame": "frames/frame_000216.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 21.703, "frame": "frames/frame_000217.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 21.828, "frame": "frames/frame_000218.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 21.906, "frame": "frames/frame_000219.jpg", "keys_down": [], "mouse_x": 316, "mouse_y": 292, "capture_x": 316, "capture_y": 292}
+{"type": "frame", "t": 22.0, "frame": "frames/frame_000220.jpg", "keys_down": [], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "input", "t": 22.031, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 22.109, "frame": "frames/frame_000221.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 22.203, "frame": "frames/frame_000222.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 22.312, "frame": "frames/frame_000223.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 22.359, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 22.406, "frame": "frames/frame_000224.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 22.453, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 22.515, "frame": "frames/frame_000225.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 22.609, "frame": "frames/frame_000226.jpg", "keys_down": ["W"], "mouse_x": 316, "mouse_y": 285, "capture_x": 316, "capture_y": 285}
+{"type": "input", "t": 22.64, "event": "down", "control": "A", "mouse_x": 318, "mouse_y": 285}
+{"type": "frame", "t": 22.719, "frame": "frames/frame_000227.jpg", "keys_down": ["A", "W"], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "input", "t": 22.781, "event": "up", "control": "A", "mouse_x": 318, "mouse_y": 287}
+{"type": "frame", "t": 22.812, "frame": "frames/frame_000228.jpg", "keys_down": ["W"], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "frame", "t": 22.906, "frame": "frames/frame_000229.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 287, "capture_x": 320, "capture_y": 287}
+{"type": "frame", "t": 23.0, "frame": "frames/frame_000230.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 23.109, "frame": "frames/frame_000231.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 23.203, "frame": "frames/frame_000232.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 23.312, "frame": "frames/frame_000233.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 23.406, "frame": "frames/frame_000234.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 23.5, "frame": "frames/frame_000235.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 23.625, "event": "up", "control": "W", "mouse_x": 365, "mouse_y": 312}
+{"type": "frame", "t": 23.625, "frame": "frames/frame_000236.jpg", "keys_down": [], "mouse_x": 365, "mouse_y": 312, "capture_x": 365, "capture_y": 312}
+{"type": "frame", "t": 23.703, "frame": "frames/frame_000237.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 23.812, "frame": "frames/frame_000238.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 23.906, "frame": "frames/frame_000239.jpg", "keys_down": [], "mouse_x": 324, "mouse_y": 285, "capture_x": 324, "capture_y": 285}
+{"type": "frame", "t": 24.015, "frame": "frames/frame_000240.jpg", "keys_down": [], "mouse_x": 323, "mouse_y": 285, "capture_x": 323, "capture_y": 285}
+{"type": "frame", "t": 24.109, "frame": "frames/frame_000241.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "frame", "t": 24.219, "frame": "frames/frame_000242.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 24.281, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 24.312, "frame": "frames/frame_000243.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 24.406, "frame": "frames/frame_000244.jpg", "keys_down": ["W"], "mouse_x": 322, "mouse_y": 283, "capture_x": 322, "capture_y": 283}
+{"type": "frame", "t": 24.5, "frame": "frames/frame_000245.jpg", "keys_down": ["W"], "mouse_x": 325, "mouse_y": 281, "capture_x": 325, "capture_y": 281}
+{"type": "frame", "t": 24.609, "frame": "frames/frame_000246.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 24.703, "event": "down", "control": "A", "mouse_x": 329, "mouse_y": 285}
+{"type": "frame", "t": 24.703, "frame": "frames/frame_000247.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 24.781, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 24.812, "frame": "frames/frame_000248.jpg", "keys_down": ["A"], "mouse_x": 336, "mouse_y": 285, "capture_x": 336, "capture_y": 285}
+{"type": "frame", "t": 24.906, "frame": "frames/frame_000249.jpg", "keys_down": ["A"], "mouse_x": 337, "mouse_y": 285, "capture_x": 337, "capture_y": 285}
+{"type": "frame", "t": 25.015, "frame": "frames/frame_000250.jpg", "keys_down": ["A"], "mouse_x": 341, "mouse_y": 285, "capture_x": 341, "capture_y": 285}
+{"type": "frame", "t": 25.109, "frame": "frames/frame_000251.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 25.125, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 25.203, "frame": "frames/frame_000252.jpg", "keys_down": [], "mouse_x": 327, "mouse_y": 283, "capture_x": 327, "capture_y": 283}
+{"type": "frame", "t": 25.312, "frame": "frames/frame_000253.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 25.406, "frame": "frames/frame_000254.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 25.5, "frame": "frames/frame_000255.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 25.609, "frame": "frames/frame_000256.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 25.687, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 25.703, "frame": "frames/frame_000257.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 25.812, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 25.812, "frame": "frames/frame_000258.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 25.906, "frame": "frames/frame_000259.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 25.969, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 26.0, "frame": "frames/frame_000260.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 26.078, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 26.109, "frame": "frames/frame_000261.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 26.172, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 26.203, "frame": "frames/frame_000262.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 26.312, "frame": "frames/frame_000263.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 26.359, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 26.375, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 26.406, "frame": "frames/frame_000264.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 26.515, "frame": "frames/frame_000265.jpg", "keys_down": ["W"], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "frame", "t": 26.609, "frame": "frames/frame_000266.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 26.719, "frame": "frames/frame_000267.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 26.75, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 26.812, "frame": "frames/frame_000268.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 26.906, "frame": "frames/frame_000269.jpg", "keys_down": ["A", "W"], "mouse_x": 314, "mouse_y": 285, "capture_x": 314, "capture_y": 285}
+{"type": "frame", "t": 27.015, "frame": "frames/frame_000270.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 27.094, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 27.109, "frame": "frames/frame_000271.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 27.125, "event": "down", "control": "D", "mouse_x": 321, "mouse_y": 285}
+{"type": "frame", "t": 27.219, "frame": "frames/frame_000272.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 27.219, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 27.25, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 27.312, "frame": "frames/frame_000273.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 27.422, "frame": "frames/frame_000274.jpg", "keys_down": [], "mouse_x": 300, "mouse_y": 288, "capture_x": 300, "capture_y": 288}
+{"type": "input", "t": 27.469, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 27.515, "frame": "frames/frame_000275.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 27.609, "frame": "frames/frame_000276.jpg", "keys_down": ["W"], "mouse_x": 311, "mouse_y": 285, "capture_x": 311, "capture_y": 285}
+{"type": "frame", "t": 27.719, "frame": "frames/frame_000277.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 27.781, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 27.812, "frame": "frames/frame_000278.jpg", "keys_down": ["D", "W"], "mouse_x": 311, "mouse_y": 285, "capture_x": 311, "capture_y": 285}
+{"type": "input", "t": 27.844, "event": "up", "control": "W", "mouse_x": 316, "mouse_y": 285}
+{"type": "frame", "t": 27.906, "frame": "frames/frame_000279.jpg", "keys_down": ["D"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 27.969, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 28.0, "frame": "frames/frame_000280.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 28.125, "frame": "frames/frame_000281.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 28.203, "frame": "frames/frame_000282.jpg", "keys_down": [], "mouse_x": 295, "mouse_y": 285, "capture_x": 295, "capture_y": 285}
+{"type": "frame", "t": 28.312, "frame": "frames/frame_000283.jpg", "keys_down": [], "mouse_x": 311, "mouse_y": 285, "capture_x": 311, "capture_y": 285}
+{"type": "frame", "t": 28.406, "frame": "frames/frame_000284.jpg", "keys_down": [], "mouse_x": 313, "mouse_y": 285, "capture_x": 313, "capture_y": 285}
+{"type": "frame", "t": 28.5, "frame": "frames/frame_000285.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 28.609, "frame": "frames/frame_000286.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 28.703, "frame": "frames/frame_000287.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 28.812, "frame": "frames/frame_000288.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 28.906, "frame": "frames/frame_000289.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 28.922, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 29.0, "frame": "frames/frame_000290.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 29.094, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 29.125, "frame": "frames/frame_000291.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 29.203, "frame": "frames/frame_000292.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 29.328, "frame": "frames/frame_000293.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 29.359, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 29.359, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 29.406, "frame": "frames/frame_000294.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 29.5, "frame": "frames/frame_000295.jpg", "keys_down": [], "mouse_x": 327, "mouse_y": 285, "capture_x": 327, "capture_y": 285}
+{"type": "frame", "t": 29.609, "frame": "frames/frame_000296.jpg", "keys_down": [], "mouse_x": 332, "mouse_y": 285, "capture_x": 332, "capture_y": 285}
+{"type": "frame", "t": 29.719, "frame": "frames/frame_000297.jpg", "keys_down": [], "mouse_x": 332, "mouse_y": 285, "capture_x": 332, "capture_y": 285}
+{"type": "frame", "t": 29.812, "frame": "frames/frame_000298.jpg", "keys_down": [], "mouse_x": 326, "mouse_y": 285, "capture_x": 326, "capture_y": 285}
+{"type": "input", "t": 29.859, "event": "down", "control": "A", "mouse_x": 326, "mouse_y": 285}
+{"type": "frame", "t": 29.906, "frame": "frames/frame_000299.jpg", "keys_down": ["A"], "mouse_x": 321, "mouse_y": 285, "capture_x": 321, "capture_y": 285}
+{"type": "frame", "t": 30.015, "frame": "frames/frame_000300.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 30.109, "frame": "frames/frame_000301.jpg", "keys_down": ["A"], "mouse_x": 283, "mouse_y": 291, "capture_x": 283, "capture_y": 291}
+{"type": "frame", "t": 30.219, "frame": "frames/frame_000302.jpg", "keys_down": ["A"], "mouse_x": 314, "mouse_y": 285, "capture_x": 314, "capture_y": 285}
+{"type": "frame", "t": 30.312, "frame": "frames/frame_000303.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 30.422, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 30.422, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 30.422, "frame": "frames/frame_000304.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 30.5, "frame": "frames/frame_000305.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 30.609, "frame": "frames/frame_000306.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 30.703, "frame": "frames/frame_000307.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 30.734, "event": "down", "control": "A", "mouse_x": 311, "mouse_y": 287}
+{"type": "frame", "t": 30.812, "frame": "frames/frame_000308.jpg", "keys_down": ["A", "W"], "mouse_x": 318, "mouse_y": 287, "capture_x": 318, "capture_y": 287}
+{"type": "frame", "t": 30.922, "frame": "frames/frame_000309.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 31.0, "frame": "frames/frame_000310.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 31.109, "frame": "frames/frame_000311.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 31.203, "frame": "frames/frame_000312.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 31.312, "frame": "frames/frame_000313.jpg", "keys_down": ["A", "W"], "mouse_x": 328, "mouse_y": 283, "capture_x": 328, "capture_y": 283}
+{"type": "frame", "t": 31.406, "frame": "frames/frame_000314.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 31.5, "frame": "frames/frame_000315.jpg", "keys_down": ["A", "W"], "mouse_x": 329, "mouse_y": 285, "capture_x": 329, "capture_y": 285}
+{"type": "input", "t": 31.594, "event": "up", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 31.609, "frame": "frames/frame_000316.jpg", "keys_down": ["W"], "mouse_x": 328, "mouse_y": 285, "capture_x": 328, "capture_y": 285}
+{"type": "frame", "t": 31.703, "frame": "frames/frame_000317.jpg", "keys_down": ["W"], "mouse_x": 336, "mouse_y": 290, "capture_x": 336, "capture_y": 290}
+{"type": "input", "t": 31.781, "event": "down", "control": "A", "mouse_x": 329, "mouse_y": 285}
+{"type": "input", "t": 31.781, "event": "up", "control": "W", "mouse_x": 336, "mouse_y": 289}
+{"type": "frame", "t": 31.812, "frame": "frames/frame_000318.jpg", "keys_down": ["A"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 31.906, "frame": "frames/frame_000319.jpg", "keys_down": ["A"], "mouse_x": 333, "mouse_y": 285, "capture_x": 333, "capture_y": 285}
+{"type": "input", "t": 31.937, "event": "up", "control": "A", "mouse_x": 333, "mouse_y": 283}
+{"type": "frame", "t": 32.0, "frame": "frames/frame_000320.jpg", "keys_down": [], "mouse_x": 345, "mouse_y": 279, "capture_x": 345, "capture_y": 279}
+{"type": "frame", "t": 32.125, "frame": "frames/frame_000321.jpg", "keys_down": [], "mouse_x": 329, "mouse_y": 285, "capture_x": 329, "capture_y": 285}
+{"type": "frame", "t": 32.203, "frame": "frames/frame_000322.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 32.234, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 32.312, "frame": "frames/frame_000323.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 32.422, "frame": "frames/frame_000324.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 32.437, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 32.515, "frame": "frames/frame_000325.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 32.609, "frame": "frames/frame_000326.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 32.703, "frame": "frames/frame_000327.jpg", "keys_down": ["D", "W"], "mouse_x": 295, "mouse_y": 288, "capture_x": 295, "capture_y": 288}
+{"type": "frame", "t": 32.812, "frame": "frames/frame_000328.jpg", "keys_down": ["D", "W"], "mouse_x": 314, "mouse_y": 285, "capture_x": 314, "capture_y": 285}
+{"type": "frame", "t": 32.906, "frame": "frames/frame_000329.jpg", "keys_down": ["D", "W"], "mouse_x": 290, "mouse_y": 291, "capture_x": 290, "capture_y": 291}
+{"type": "frame", "t": 33.0, "frame": "frames/frame_000330.jpg", "keys_down": ["D", "W"], "mouse_x": 311, "mouse_y": 287, "capture_x": 311, "capture_y": 287}
+{"type": "frame", "t": 33.109, "frame": "frames/frame_000331.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 33.125, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 33.172, "event": "up", "control": "W", "mouse_x": 311, "mouse_y": 285}
+{"type": "frame", "t": 33.203, "frame": "frames/frame_000332.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 33.312, "frame": "frames/frame_000333.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 33.406, "frame": "frames/frame_000334.jpg", "keys_down": [], "mouse_x": 316, "mouse_y": 285, "capture_x": 316, "capture_y": 285}
+{"type": "frame", "t": 33.5, "frame": "frames/frame_000335.jpg", "keys_down": [], "mouse_x": 307, "mouse_y": 283, "capture_x": 307, "capture_y": 283}
+{"type": "frame", "t": 33.609, "frame": "frames/frame_000336.jpg", "keys_down": [], "mouse_x": 301, "mouse_y": 287, "capture_x": 301, "capture_y": 287}
+{"type": "frame", "t": 33.703, "frame": "frames/frame_000337.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 33.812, "frame": "frames/frame_000338.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 33.906, "frame": "frames/frame_000339.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 34.015, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 34.015, "frame": "frames/frame_000340.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 34.109, "frame": "frames/frame_000341.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 34.203, "frame": "frames/frame_000342.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 34.312, "frame": "frames/frame_000343.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 34.406, "frame": "frames/frame_000344.jpg", "keys_down": ["W"], "mouse_x": 330, "mouse_y": 280, "capture_x": 330, "capture_y": 280}
+{"type": "input", "t": 34.422, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 34.5, "frame": "frames/frame_000345.jpg", "keys_down": [], "mouse_x": 327, "mouse_y": 278, "capture_x": 327, "capture_y": 278}
+{"type": "frame", "t": 34.609, "frame": "frames/frame_000346.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 34.719, "frame": "frames/frame_000347.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 34.812, "frame": "frames/frame_000348.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 34.922, "frame": "frames/frame_000349.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 35.0, "frame": "frames/frame_000350.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 35.015, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 35.125, "frame": "frames/frame_000351.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 35.156, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 35.203, "frame": "frames/frame_000352.jpg", "keys_down": [], "mouse_x": 376, "mouse_y": 283, "capture_x": 376, "capture_y": 283}
+{"type": "frame", "t": 35.312, "frame": "frames/frame_000353.jpg", "keys_down": [], "mouse_x": 353, "mouse_y": 282, "capture_x": 353, "capture_y": 282}
+{"type": "frame", "t": 35.406, "frame": "frames/frame_000354.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 35.5, "frame": "frames/frame_000355.jpg", "keys_down": [], "mouse_x": 326, "mouse_y": 285, "capture_x": 326, "capture_y": 285}
+{"type": "frame", "t": 35.609, "frame": "frames/frame_000356.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 35.703, "frame": "frames/frame_000357.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 35.812, "frame": "frames/frame_000358.jpg", "keys_down": [], "mouse_x": 269, "mouse_y": 288, "capture_x": 269, "capture_y": 288}
+{"type": "frame", "t": 35.906, "frame": "frames/frame_000359.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 36.015, "frame": "frames/frame_000360.jpg", "keys_down": [], "mouse_x": 314, "mouse_y": 287, "capture_x": 314, "capture_y": 287}
+{"type": "frame", "t": 36.109, "frame": "frames/frame_000361.jpg", "keys_down": [], "mouse_x": 317, "mouse_y": 285, "capture_x": 317, "capture_y": 285}
+{"type": "frame", "t": 36.219, "frame": "frames/frame_000362.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 36.281, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 36.312, "frame": "frames/frame_000363.jpg", "keys_down": ["W"], "mouse_x": 314, "mouse_y": 285, "capture_x": 314, "capture_y": 285}
+{"type": "frame", "t": 36.422, "frame": "frames/frame_000364.jpg", "keys_down": ["W"], "mouse_x": 313, "mouse_y": 287, "capture_x": 313, "capture_y": 287}
+{"type": "frame", "t": 36.515, "frame": "frames/frame_000365.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 36.609, "frame": "frames/frame_000366.jpg", "keys_down": ["W"], "mouse_x": 319, "mouse_y": 285, "capture_x": 319, "capture_y": 285}
+{"type": "frame", "t": 36.703, "frame": "frames/frame_000367.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 36.812, "frame": "frames/frame_000368.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 36.859, "event": "down", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 36.906, "frame": "frames/frame_000369.jpg", "keys_down": ["D", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 36.984, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 37.015, "frame": "frames/frame_000370.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 37.109, "frame": "frames/frame_000371.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 37.203, "frame": "frames/frame_000372.jpg", "keys_down": ["W"], "mouse_x": 318, "mouse_y": 285, "capture_x": 318, "capture_y": 285}
+{"type": "frame", "t": 37.312, "frame": "frames/frame_000373.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 37.422, "frame": "frames/frame_000374.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 37.484, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 37.5, "frame": "frames/frame_000375.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 37.609, "frame": "frames/frame_000376.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 37.719, "frame": "frames/frame_000377.jpg", "keys_down": ["A", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 37.812, "frame": "frames/frame_000378.jpg", "keys_down": ["A", "W"], "mouse_x": 322, "mouse_y": 286, "capture_x": 322, "capture_y": 286}
+{"type": "input", "t": 37.859, "event": "up", "control": "A", "mouse_x": 322, "mouse_y": 286}
+{"type": "frame", "t": 37.906, "frame": "frames/frame_000379.jpg", "keys_down": ["W"], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "input", "t": 37.953, "event": "up", "control": "W", "mouse_x": 322, "mouse_y": 285}
+{"type": "frame", "t": 38.015, "frame": "frames/frame_000380.jpg", "keys_down": [], "mouse_x": 326, "mouse_y": 285, "capture_x": 326, "capture_y": 285}
+{"type": "frame", "t": 38.109, "frame": "frames/frame_000381.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 38.203, "frame": "frames/frame_000382.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 38.25, "event": "down", "control": "A", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 38.297, "event": "up", "control": "A", "mouse_x": 322, "mouse_y": 285}
+{"type": "frame", "t": 38.312, "frame": "frames/frame_000383.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 38.422, "frame": "frames/frame_000384.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 38.5, "frame": "frames/frame_000385.jpg", "keys_down": [], "mouse_x": 339, "mouse_y": 295, "capture_x": 339, "capture_y": 295}
+{"type": "frame", "t": 38.609, "frame": "frames/frame_000386.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 289, "capture_x": 322, "capture_y": 289}
+{"type": "frame", "t": 38.719, "frame": "frames/frame_000387.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 287, "capture_x": 320, "capture_y": 287}
+{"type": "frame", "t": 38.812, "frame": "frames/frame_000388.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 38.828, "event": "down", "control": "D", "mouse_x": 314, "mouse_y": 287}
+{"type": "input", "t": 38.922, "event": "up", "control": "D", "mouse_x": 320, "mouse_y": 292}
+{"type": "frame", "t": 38.922, "frame": "frames/frame_000389.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 298, "capture_x": 320, "capture_y": 298}
+{"type": "frame", "t": 39.015, "frame": "frames/frame_000390.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 39.109, "frame": "frames/frame_000391.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 39.219, "frame": "frames/frame_000392.jpg", "keys_down": [], "mouse_x": 310, "mouse_y": 290, "capture_x": 310, "capture_y": 290}
+{"type": "frame", "t": 39.312, "frame": "frames/frame_000393.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 39.422, "frame": "frames/frame_000394.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 39.469, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 39.515, "frame": "frames/frame_000395.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 39.609, "frame": "frames/frame_000396.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 39.672, "event": "up", "control": "W", "mouse_x": 337, "mouse_y": 288}
+{"type": "frame", "t": 39.703, "frame": "frames/frame_000397.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 39.812, "frame": "frames/frame_000398.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 39.906, "frame": "frames/frame_000399.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 40.0, "frame": "frames/frame_000400.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 40.109, "frame": "frames/frame_000401.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 287, "capture_x": 320, "capture_y": 287}
+{"type": "frame", "t": 40.203, "frame": "frames/frame_000402.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 40.25, "event": "down", "control": "E", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 40.312, "frame": "frames/frame_000403.jpg", "keys_down": ["E"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 40.406, "frame": "frames/frame_000404.jpg", "keys_down": ["E"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 40.5, "frame": "frames/frame_000405.jpg", "keys_down": ["E"], "mouse_x": 319, "mouse_y": 283, "capture_x": 319, "capture_y": 283}
+{"type": "input", "t": 40.515, "event": "up", "control": "E", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 40.609, "frame": "frames/frame_000406.jpg", "keys_down": [], "mouse_x": 304, "mouse_y": 220, "capture_x": 304, "capture_y": 220}
+{"type": "frame", "t": 40.703, "frame": "frames/frame_000407.jpg", "keys_down": [], "mouse_x": 317, "mouse_y": 264, "capture_x": 317, "capture_y": 264}
+{"type": "frame", "t": 40.812, "frame": "frames/frame_000408.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 40.922, "frame": "frames/frame_000409.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 289, "capture_x": 322, "capture_y": 289}
+{"type": "frame", "t": 41.015, "frame": "frames/frame_000410.jpg", "keys_down": [], "mouse_x": 324, "mouse_y": 290, "capture_x": 324, "capture_y": 290}
+{"type": "frame", "t": 41.109, "frame": "frames/frame_000411.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 287, "capture_x": 322, "capture_y": 287}
+{"type": "frame", "t": 41.219, "frame": "frames/frame_000412.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 292, "capture_x": 320, "capture_y": 292}
+{"type": "frame", "t": 41.312, "frame": "frames/frame_000413.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 41.422, "frame": "frames/frame_000414.jpg", "keys_down": [], "mouse_x": 323, "mouse_y": 298, "capture_x": 323, "capture_y": 298}
+{"type": "frame", "t": 41.5, "frame": "frames/frame_000415.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 286, "capture_x": 320, "capture_y": 286}
+{"type": "input", "t": 41.547, "event": "down", "control": "W", "mouse_x": 318, "mouse_y": 289}
+{"type": "input", "t": 41.578, "event": "down", "control": "SPACE", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 41.609, "frame": "frames/frame_000416.jpg", "keys_down": ["SPACE", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 41.703, "frame": "frames/frame_000417.jpg", "keys_down": ["SPACE", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 41.781, "event": "up", "control": "SPACE", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 41.812, "frame": "frames/frame_000418.jpg", "keys_down": ["W"], "mouse_x": 319, "mouse_y": 285, "capture_x": 319, "capture_y": 285}
+{"type": "input", "t": 41.812, "event": "up", "control": "W", "mouse_x": 319, "mouse_y": 285}
+{"type": "input", "t": 41.844, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 41.89, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 41.906, "frame": "frames/frame_000419.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 42.015, "frame": "frames/frame_000420.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 42.109, "frame": "frames/frame_000421.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 42.203, "frame": "frames/frame_000422.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 42.312, "frame": "frames/frame_000423.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 42.328, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 42.406, "frame": "frames/frame_000424.jpg", "keys_down": ["W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 42.453, "event": "down", "control": "SPACE", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 42.515, "frame": "frames/frame_000425.jpg", "keys_down": ["SPACE", "W"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 42.578, "event": "up", "control": "SPACE", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 42.578, "event": "up", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 42.609, "frame": "frames/frame_000426.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 42.703, "frame": "frames/frame_000427.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 42.828, "frame": "frames/frame_000428.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 42.922, "frame": "frames/frame_000429.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.0, "frame": "frames/frame_000430.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.125, "frame": "frames/frame_000431.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.203, "frame": "frames/frame_000432.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.312, "frame": "frames/frame_000433.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.406, "frame": "frames/frame_000434.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.515, "frame": "frames/frame_000435.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.609, "frame": "frames/frame_000436.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 43.719, "frame": "frames/frame_000437.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 43.75, "event": "down", "control": "W", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 43.812, "frame": "frames/frame_000438.jpg", "keys_down": ["W"], "mouse_x": 329, "mouse_y": 285, "capture_x": 329, "capture_y": 285}
+{"type": "input", "t": 43.859, "event": "up", "control": "W", "mouse_x": 326, "mouse_y": 283}
+{"type": "frame", "t": 43.922, "frame": "frames/frame_000439.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 44.015, "frame": "frames/frame_000440.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 44.109, "frame": "frames/frame_000441.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 44.219, "frame": "frames/frame_000442.jpg", "keys_down": [], "mouse_x": 399, "mouse_y": 271, "capture_x": 399, "capture_y": 271}
+{"type": "frame", "t": 44.312, "frame": "frames/frame_000443.jpg", "keys_down": [], "mouse_x": 507, "mouse_y": 291, "capture_x": 507, "capture_y": 291}
+{"type": "frame", "t": 44.406, "frame": "frames/frame_000444.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 44.5, "frame": "frames/frame_000445.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 44.609, "frame": "frames/frame_000446.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 44.703, "frame": "frames/frame_000447.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 44.812, "frame": "frames/frame_000448.jpg", "keys_down": [], "mouse_x": 280, "mouse_y": 278, "capture_x": 280, "capture_y": 278}
+{"type": "frame", "t": 44.906, "frame": "frames/frame_000449.jpg", "keys_down": [], "mouse_x": 307, "mouse_y": 282, "capture_x": 307, "capture_y": 282}
+{"type": "frame", "t": 45.015, "frame": "frames/frame_000450.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 45.109, "frame": "frames/frame_000451.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 45.219, "frame": "frames/frame_000452.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 45.312, "frame": "frames/frame_000453.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 45.422, "frame": "frames/frame_000454.jpg", "keys_down": [], "mouse_x": 316, "mouse_y": 285, "capture_x": 316, "capture_y": 285}
+{"type": "frame", "t": 45.515, "frame": "frames/frame_000455.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 45.609, "frame": "frames/frame_000456.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 283, "capture_x": 320, "capture_y": 283}
+{"type": "frame", "t": 45.703, "frame": "frames/frame_000457.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 45.812, "frame": "frames/frame_000458.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 45.906, "frame": "frames/frame_000459.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.0, "frame": "frames/frame_000460.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.109, "frame": "frames/frame_000461.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.219, "frame": "frames/frame_000462.jpg", "keys_down": [], "mouse_x": 322, "mouse_y": 285, "capture_x": 322, "capture_y": 285}
+{"type": "frame", "t": 46.328, "frame": "frames/frame_000463.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.406, "frame": "frames/frame_000464.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.5, "frame": "frames/frame_000465.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.609, "frame": "frames/frame_000466.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.703, "frame": "frames/frame_000467.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.812, "frame": "frames/frame_000468.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 46.906, "frame": "frames/frame_000469.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.015, "frame": "frames/frame_000470.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.109, "frame": "frames/frame_000471.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.219, "frame": "frames/frame_000472.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.328, "frame": "frames/frame_000473.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.406, "frame": "frames/frame_000474.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.5, "frame": "frames/frame_000475.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 47.515, "event": "down", "control": "CTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 47.515, "event": "down", "control": "LCTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 47.609, "frame": "frames/frame_000476.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.703, "frame": "frames/frame_000477.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 47.765, "event": "down", "control": "C", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 47.828, "frame": "frames/frame_000478.jpg", "keys_down": ["C", "CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 47.922, "frame": "frames/frame_000479.jpg", "keys_down": ["C", "CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 48.015, "event": "up", "control": "C", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 48.015, "frame": "frames/frame_000480.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 48.109, "frame": "frames/frame_000481.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 48.203, "frame": "frames/frame_000482.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 48.219, "event": "up", "control": "CTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 48.219, "event": "up", "control": "LCTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 48.312, "frame": "frames/frame_000483.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 48.406, "frame": "frames/frame_000484.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 48.515, "frame": "frames/frame_000485.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 48.609, "frame": "frames/frame_000486.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 48.687, "event": "down", "control": "CTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 48.687, "event": "down", "control": "LCTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 48.719, "frame": "frames/frame_000487.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 48.828, "frame": "frames/frame_000488.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 48.906, "frame": "frames/frame_000489.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 49.0, "frame": "frames/frame_000490.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 49.109, "frame": "frames/frame_000491.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 49.125, "event": "down", "control": "C", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 49.219, "frame": "frames/frame_000492.jpg", "keys_down": ["C", "CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 49.265, "event": "up", "control": "C", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 49.312, "frame": "frames/frame_000493.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 49.422, "frame": "frames/frame_000494.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 49.484, "event": "down", "control": "C", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 49.515, "frame": "frames/frame_000495.jpg", "keys_down": ["C", "CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 49.609, "frame": "frames/frame_000496.jpg", "keys_down": ["C", "CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 49.625, "event": "up", "control": "C", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 49.719, "frame": "frames/frame_000497.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 49.734, "event": "up", "control": "CTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "input", "t": 49.734, "event": "up", "control": "LCTRL", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 49.812, "frame": "frames/frame_000498.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 49.906, "frame": "frames/frame_000499.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "frame", "t": 50.0, "frame": "frames/frame_000500.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 50.109, "event": "down", "control": "ESC", "mouse_x": 320, "mouse_y": 285}
+{"type": "frame", "t": 50.109, "frame": "frames/frame_000501.jpg", "keys_down": ["ESC"], "mouse_x": 320, "mouse_y": 285, "capture_x": 320, "capture_y": 285}
+{"type": "input", "t": 50.219, "event": "up", "control": "ESC", "mouse_x": 320, "mouse_y": 282}
+{"type": "frame", "t": 50.219, "frame": "frames/frame_000502.jpg", "keys_down": [], "mouse_x": 320, "mouse_y": 282, "capture_x": 320, "capture_y": 282}
+{"type": "frame", "t": 50.312, "frame": "frames/frame_000503.jpg", "keys_down": [], "mouse_x": 325, "mouse_y": 387, "capture_x": 325, "capture_y": 387}
+{"type": "frame", "t": 50.406, "frame": "frames/frame_000504.jpg", "keys_down": [], "mouse_x": 369, "mouse_y": 788, "capture_x": 369, "capture_y": 788}
+{"type": "frame", "t": 50.5, "frame": "frames/frame_000505.jpg", "keys_down": [], "mouse_x": 437, "mouse_y": 871, "capture_x": 437, "capture_y": 871}
+{"type": "frame", "t": 50.609, "frame": "frames/frame_000506.jpg", "keys_down": [], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "input", "t": 50.609, "event": "down", "control": "MOUSE_LEFT", "mouse_x": 526, "mouse_y": 927}
+{"type": "input", "t": 50.687, "event": "down", "control": "CTRL", "mouse_x": 526, "mouse_y": 927}
+{"type": "input", "t": 50.687, "event": "down", "control": "LCTRL", "mouse_x": 526, "mouse_y": 927}
+{"type": "frame", "t": 50.703, "frame": "frames/frame_000507.jpg", "keys_down": ["CTRL", "LCTRL", "MOUSE_LEFT"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "input", "t": 50.719, "event": "up", "control": "MOUSE_LEFT", "mouse_x": 526, "mouse_y": 927}
+{"type": "frame", "t": 50.812, "frame": "frames/frame_000508.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "frame", "t": 50.906, "frame": "frames/frame_000509.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "frame", "t": 51.015, "frame": "frames/frame_000510.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "frame", "t": 51.109, "frame": "frames/frame_000511.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "frame", "t": 51.219, "frame": "frames/frame_000512.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "frame", "t": 51.312, "frame": "frames/frame_000513.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "frame", "t": 51.406, "frame": "frames/frame_000514.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "frame", "t": 51.5, "frame": "frames/frame_000515.jpg", "keys_down": ["CTRL", "LCTRL"], "mouse_x": 526, "mouse_y": 927, "capture_x": 526, "capture_y": 927}
+{"type": "input", "t": 51.547, "event": "up", "control": "CTRL", "mouse_x": null, "mouse_y": null}
+{"type": "input", "t": 51.547, "event": "up", "control": "LCTRL", "mouse_x": null, "mouse_y": null}
